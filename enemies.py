@@ -1,7 +1,7 @@
 import random
 
 # list of enemies
-enemylist = ["goblin", "orc", "troll", "elf", "human", "dog", "dragon", "dwarf", "treeants", "kobold", "skeleton", "zombie", "wizard", "warlock"]
+enemylist = ["goblin", "orc", "troll", "elf", "human", "dog", "dragon", "dwarf", "treeants", "kobold", "skeleton", "zombie", "wizard", "warlock", "gnome"]
 
 # Enemy functions
 def enemy_generator():
