@@ -7,7 +7,7 @@ I'll make sure to go back whenever I learn something new that will make the code
 ### Initial thoughts
 
 ```markdown
-Code eill be added
+Code will be added
 ```
 
 ### Contact
